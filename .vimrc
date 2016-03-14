@@ -8,7 +8,7 @@ syntax on
 
 
 " UI OPTIONS
-set background=dark     " visual
+"" set background=dark     " visual
 "" colorscheme {name}
 set showcmd             " show command in bottom bar
 set cursorline          " highlight current line
